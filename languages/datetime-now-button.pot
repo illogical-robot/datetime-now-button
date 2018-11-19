@@ -1,0 +1,37 @@
+# Copyright (C) 2013 Date/Time Now Button
+# This file is distributed under the same license as the Date/Time Now Button package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Date/Time Now Button 0.2.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/datetime-now-button\n"
+"POT-Creation-Date: 2013-01-11 11:47:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: datetime-now-button.php:33 datetime-now-button.php:42
+msgid "Now"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Date/Time Now Button"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://radiok.info/blog/category/datetime-now-button/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds a Now button to the right of date and time fields."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "radiok"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://radiok.info/"
+msgstr ""
