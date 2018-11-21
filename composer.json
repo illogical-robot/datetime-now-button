@@ -1,5 +1,5 @@
 {
-    "name": "android-police/datetime-now-button",
+    "name": "ap/datetime-now-button",
     "description": "Adds a Now button to the right of date and time fields when editing a Post, Page or Comment. ",
     "homepage": "https://github.com/android-police/datetime-now-button",
     "type": "wordpress-plugin",
